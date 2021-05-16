@@ -4,7 +4,7 @@ Este proyecto ha sido generado con [Angular CLI](https://github.com/angular/angu
 
 ## Contribuciones
 
-Este proyecto forma parte de mis artículos en [Medium](https://bryanaguilar6174.medium.com/)
+Este proyecto forma parte de mis artículo Estructura base para cualquier proyecto de Angular en [Medium](https://bryanaguilar6174.medium.com/estructura-base-para-cualquier-proyecto-de-angular-6a035a27bfcf)
 
 ## Uso
 
