@@ -16,11 +16,11 @@ Ejecuta el comando `npm i` para instalar las dependencias necesarias. Luego el c
 
 ## Aplicación
 
-![Home Page](https://github.com/bryanAguilar001/angular-structure-proyect/media/main/home.png?raw=true)
+![Home Page](https://github.com/bryanAguilar001/angular-structure-proyect/blob/main/media/home.PNG?raw=true)
 
-![About Page](./media/about.png)
+![About Page](https://github.com/bryanAguilar001/angular-structure-proyect/blob/main/media/about.PNG)
 
-![Contact Page](./media/contact.png)
+![Contact Page](https://github.com/bryanAguilar001/angular-structure-proyect/blob/main/media/contact.PNG)
 
 
 
